@@ -1,1 +1,1 @@
-sudo cat log | less
+sudo less log 
